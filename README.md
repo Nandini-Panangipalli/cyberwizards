@@ -1,1 +1,72 @@
 # cyberwizards
+<html>
+    <head>
+    <title>MindBodyBalance</title>
+    <link href="homepage.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+</head>
+
+
+<body class="background-img">
+    <header style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+        <div>
+            <h2 class="fw-bold">MindBodyBalance</h2>
+        </div>
+        <div class="hi">
+            <ul style="display: flex; justify-content: space-evenly; list-style-type: none; font-size: 25px;">
+                <li class="m-2"><a href="http://127.0.0.1:5500/homepage.html" target="_blank" style="text-decoration: none; color: black;">HOME </a></li>
+                <li class="m-2"><a href="http://127.0.0.1:5500/health.html" target="_blank" style="text-decoration: none; color: black;">HEALTH </a></li>
+                <li class="m-2"><a href="http://127.0.0.1:5500/mem.html" target="_blank" style="text-decoration: none; color: black;"> MEMBERSHIP</a></li>
+                <li class="m-2"><a href="http://127.0.0.1:5500/blog.html" target="_blank" style="text-decoration: none; color: black;">BLOG </a></li>
+                <li class="m-2"><a href="http://127.0.0.1:5500/contact.html" target="_blank" style="text-decoration: none; color: black;">CONTACT US</a></li>
+                <li class="m-2"><a href="http://127.0.0.1:5500/signup.html" target="_blank" style="text-decoration: none; color: black;">SIGN UP </a></li>
+
+            </ul>
+        </div>
+    </header>
+    <div class="top">
+        <h3>“One small crack does not mean that you are broken, 
+            it means that you were put to the test and you didn’t fall apart.” — Linda Poindexter</h3>
+    </div>
+    <div class="size">
+      <p><h3>What is health and fitness?</h3></p>
+    <b>Health</b> is the level of functional or metabolic efficiency of a living organism. In humans, it is the ability of individuals or communities to adapt and self-manage when facing physical, mental, or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: "health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a "socially and economically productive life." The WHO definition is not without criticism; mainly that it is much too broad.
+
+The most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length, and can assist in measuring well-being. 
+ Whereas <b>fitness</b> is a broad term that means something different to each person, but it refers to your own optimal health and overall well-being. Being fit not only means physical health, but emotional and mental health, too. It defines every aspect of your health. Smart eating and active living are fundamental to fitness.
+
+According to the Academy of Nutrition and Dietetics' Complete Food and Nutrition Guide (3rd ed.), when you are fit, you have:
+<ul>
+    <li>Energy to do what's important to you and to be more productive.</li>
+    <li>Stamina and a positive outlook to handle the mental challenges and emotional ups and downs of everyday life and to deal with stress.</li>
+    <li>Reduced risk for many health problems, such as heart disease, cancer, diabetes and osteoporosis.</li>
+    <li>The chance to look and feel your best.</li>
+    <li>Physical strength and endurance to accomplish physical challenges.</li>
+    <li>A better chance for a higher quality of life and perhaps a longer life.</li>
+</ul>
+
+<br>
+<p><h3>Importance of mental health</h3></p>
+WHO defines mental health as mental well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and is able to make a contribution to his or her community.  In this positive sense, mental health is the foundation for individual well-being and the effective functioning of a community.
+It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood.
+
+<p><h3></h3></p>
+    </div>
+        
+
+    <footer>
+        <!--footer-->
+        <div>
+            <h5>plotno-20</h5>
+            <h4>city:Hyderabad</h4>  
+           <h3>PINCODE:523001</h3>
+           </div>
+           
+        
+
+    </footer>
+
+
+
+
+</body></html>
